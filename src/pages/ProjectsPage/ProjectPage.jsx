@@ -5,7 +5,8 @@ import teamtrackrIMG from "../../assets/teamtrackrIMG.png";
 import marketingIMG from "../../assets/marketingIMG.png";
 import travelHookIMG from "../../assets/travelhookIMG.png";
 import safecamIMG from "../../assets/safecamIMG.png";
-import careerCoachImg from "@/assets/career_coach.png";  // If alias is configured
+import careerCoachImg from "../../assets/career_coach.png";
+;  // If alias is configured
 
 import weatherAppImg from '../../assets/weaht.png'
 import { motion } from "framer-motion";
