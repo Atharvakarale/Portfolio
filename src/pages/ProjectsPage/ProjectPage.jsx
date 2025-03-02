@@ -5,7 +5,7 @@ import teamtrackrIMG from "../../assets/teamtrackrIMG.png";
 import marketingIMG from "../../assets/marketingIMG.png";
 import travelHookIMG from "../../assets/travelhookIMG.png";
 import safecamIMG from "../../assets/safecamIMG.png";
-import Career_Coach from "../../assets/Career_Coach.png";
+// import careerCoach from "../../assets/Career_Coach.png";
 
 
 import weatherAppImg from '../../assets/weaht.png'
@@ -35,7 +35,7 @@ function Projects() {
               projectDetails={
                 "React Quiz App: Answer React questions, get results. Fun way to test React knowledge. Simple, interactive, and informative!"
               }
-              demoImage={Career_Coach}
+              demoImage={weatherAppImg}
               skill_img={[
                 "https://cdn.worldvectorlogo.com/logos/react-2.svg",
                 "https://cdn.worldvectorlogo.com/logos/html-1.svg",
