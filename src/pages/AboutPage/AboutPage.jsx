@@ -70,28 +70,6 @@ function AboutPage() {
                   }
                 />
               </div>
-              {/* <div className={`${style.action_container} ${style.right_container}`}>
-                <ActionBox
-                  isleft={false}
-                  timeline={"2023 - 2024"}
-                  timeline_title={"Apprentice Engineer "}
-                  location={"Bharat Electronics Limited, Ktd."}
-                  details={
-                    "Worked as an Apprentice Engineer for 1 year under BEL Kotdwara, Ministry of External Affairs"
-                  }
-                />
-              </div>
-              <div className={`${style.action_container} ${style.left_container}`}>
-                <ActionBox
-                  isleft={false}
-                  timeline={"2024"}
-                  timeline_title={"PGT Teacher"}
-                  location={"Navyug Public School, Kotdwara"}
-                  details={
-                    "I am working as an IT Teacher at senior secondary level."
-                  }
-                />
-              </div> */}
              
             </div>
           </div>
