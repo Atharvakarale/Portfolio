@@ -5,7 +5,7 @@ import teamtrackrIMG from "../../assets/teamtrackrIMG.png";
 import marketingIMG from "../../assets/marketingIMG.png";
 import travelHookIMG from "../../assets/travelhookIMG.png";
 import safecamIMG from "../../assets/safecamIMG.png";
-import quizIMG from "../../assets/Career_coach.png";
+import quizIMG from "../../assets/career_coach.png";
 import weatherAppImg from '../../assets/weaht.png'
 import { motion } from "framer-motion";
 import ComponentTitle from "../../Components/ComponentTitle/ComponentTitle";
