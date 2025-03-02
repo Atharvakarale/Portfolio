@@ -61,15 +61,16 @@ function AboutPage() {
               <div className={`${style.action_container} ${style.left_container}`}>
                 <ActionBox
                   isleft={true}
-                  timeline={"2022 - 2023"}
-                  timeline_title={"TGT Teacher"}
-                  location={"Bal Bharti Public School, Kotdwara"}
+                  timeline={"NOV 2023 - DEC 2023"}
+                  timeline_title={"Web Development Intern"}
+                  location={"Codesoft ,Pune"}
                   details={
-                    "I have worked as a junior teacher in school and also worked in management. "
+                    " Enhanced web development skills by working with HTML, CSS, JavaScript, and React.js. Developed a portfolio website, a tour website landing page, and a To-Do list project."
+ 
                   }
                 />
               </div>
-              <div className={`${style.action_container} ${style.right_container}`}>
+              {/* <div className={`${style.action_container} ${style.right_container}`}>
                 <ActionBox
                   isleft={false}
                   timeline={"2023 - 2024"}
@@ -90,7 +91,7 @@ function AboutPage() {
                     "I am working as an IT Teacher at senior secondary level."
                   }
                 />
-              </div>
+              </div> */}
              
             </div>
           </div>
