@@ -4,8 +4,9 @@ import ProjectCard from "../../Components/ProjectCard/projectCard";
 import teamtrackrIMG from "../../assets/teamtrackrIMG.png";
 import marketingIMG from "../../assets/marketingIMG.png";
 import travelHookIMG from "../../assets/travelhookIMG.png";
-import safecamIMG from "../../assets/safecamIMG.png";
-// import careerCoach from "../../assets/Career_Coach.png";
+import safecamIMG from "../../assets/safecamImg.png";
+import careerCoach from "../../assets/careerCoach.png";
+
 
 
 import weatherAppImg from '../../assets/weaht.png'
@@ -35,7 +36,7 @@ function Projects() {
               projectDetails={
                 "React Quiz App: Answer React questions, get results. Fun way to test React knowledge. Simple, interactive, and informative!"
               }
-              demoImage={weatherAppImg}
+              demoImage={careerCoach}
               skill_img={[
                 "https://cdn.worldvectorlogo.com/logos/react-2.svg",
                 "https://cdn.worldvectorlogo.com/logos/html-1.svg",
@@ -45,6 +46,7 @@ function Projects() {
 
               ]}
             />
+            
             <ProjectCard
               previewLink={"https://reatweathersite.netlify.app/"}
               githubLink={"https://github.com/shivam1611/react-whether-app/tree/main"}

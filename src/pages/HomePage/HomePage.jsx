@@ -39,7 +39,7 @@ function HomePage() {
             }}
             className={style.bottom_text_style}
           >
-            &lt;Frontend Developer/&gt;
+            &lt;Full-Stack Developer/&gt;
           </motion.p>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -52,9 +52,7 @@ function HomePage() {
             }}
             className={style.detail_text}
           >
-            Passionate and detail-oriented Frontend Developer, Proficient in
-            React.js along with HTML, CSS, and JavaScript, with a strong
-            foundation in responsive design and user experience principles.
+            Passionate Full-Stack Developer skilled in React.js, Next.js, Node.js, and Express.js, with expertise in frontend UI/UX and backend architecture. Proficient in JavaScript, TypeScript, MongoDB, and PostgreSQL, I build scalable, high-performance web applications with seamless user experiences. Always exploring new technologies to deliver cutting-edge solutions.
           </motion.p>
           <motion.button
             initial={{ opacity: 0, x: "-7vw" }}
