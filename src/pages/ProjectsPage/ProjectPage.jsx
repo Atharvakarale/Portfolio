@@ -71,7 +71,7 @@ function Projects() {
               githubLink={"https://travellandingpage262004.netlify.app/"}
               projectName={"Travel Website Landing Page"}
               projectDetails={
-                "Travel Explorer a visually engaging travel website landing page built with HTML, CSS, and JavaScript. Features interactive destination highlights, smooth animations, and a responsive design for an immersive user experience"
+                "Travel-X a visually engaging travel website landing page built with HTML, CSS, and JavaScript. Features interactive destination highlights, smooth animations, and a responsive design for an immersive user experience"
               }
               demoImage={travel}
               key={"Travel Website Landing Page"}
