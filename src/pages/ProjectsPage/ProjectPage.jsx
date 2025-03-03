@@ -6,7 +6,7 @@ import marketingIMG from "../../assets/marketingIMG.png";
 import travelHookIMG from "../../assets/travelhookIMG.png";
 import safecamIMG from "../../assets/safecamIMG.png";
 import careerCoach from "../../assets/careerCoach.png";
-import Financly from "../../assets/financly.png";
+import Financly from "../../assets/Financly.png";
 
 
 
