@@ -4,7 +4,7 @@ import ProjectCard from "../../Components/ProjectCard/projectCard";
 import teamtrackrIMG from "../../assets/teamtrackrIMG.png";
 import marketingIMG from "../../assets/marketingIMG.png";
 import travelHookIMG from "../../assets/travelhookIMG.png";
-import safecamIMG from "../../assets/safecamImg.png";
+import safecamIMG from "../../assets/safecamIMG.png";
 import careerCoach from "../../assets/careerCoach.png";
 
 
