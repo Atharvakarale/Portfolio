@@ -1,9 +1,9 @@
 import Navbar from "../../Components/Navbar/Navbar";
 import styles from "./ProjectPage.module.css";
 import ProjectCard from "../../Components/ProjectCard/projectCard";
-import marketingIMG from "../../assets/marketingIMG.png";
 
-import safecamIMG from "../../assets/safecamIMG.png";
+
+
 import careerCoach from "../../assets/careerCoach.png";
 import financly from "../../assets/financly.png";
 import travel from "../../assets/travel.png";
