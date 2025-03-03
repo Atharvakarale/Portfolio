@@ -10,7 +10,7 @@ import Financly from "../../assets/financly.png";
 
 
 
-import weatherAppImg from '../../assets/weaht.png'
+// import weatherAppImg from '../../assets/weaht.png'
 import { motion } from "framer-motion";
 import ComponentTitle from "../../Components/ComponentTitle/ComponentTitle";
 import Circle from "../../Components/Circle/Circle";
