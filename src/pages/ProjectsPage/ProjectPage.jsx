@@ -6,6 +6,7 @@ import marketingIMG from "../../assets/marketingIMG.png";
 import travelHookIMG from "../../assets/travelhookIMG.png";
 import safecamIMG from "../../assets/safecamIMG.png";
 import careerCoach from "../../assets/careerCoach.png";
+import Financly from "../../assets/financly.png";
 
 
 
@@ -34,7 +35,7 @@ function Projects() {
               githubLink={"https://github.com/Atharvakarale/sensai"}
               projectName={"AI_Career_Coach"}
               projectDetails={
-                "React Quiz App: Answer React questions, get results. Fun way to test React knowledge. Simple, interactive, and informative!"
+                "Full Stack AI Career Coach an AI-driven platform for career guidance, featuring an NLP resume analyzer, AI cover letter builder, and optimized serverless backend for faster performance."
               }
               demoImage={careerCoach}
               skill_img={[
@@ -48,26 +49,26 @@ function Projects() {
             />
             
             <ProjectCard
-              previewLink={"https://reatweathersite.netlify.app/"}
-              githubLink={"https://github.com/shivam1611/react-whether-app/tree/main"}
-              projectName={"React Weather App"}
+              previewLink={"https://personal-finance-tracker-main-eight.vercel.app/"}
+              githubLink={"https://github.com/Atharvakarale/personal-finance-tracker-main"}
+              projectName={"Financly"}
               projectDetails={
-                "This is React Weather App for you to see how the day is going. Interactive Web Application based on API Data fetching."
+                "Financly a personal finance tracker for managing expenses and earnings. Features real-time tracking, downloadable reports, and secure data storage. Built with React, Node.js, and Firebase for a seamless and efficient user experience.."
               }
-              demoImage={weatherAppImg}
+              demoImage={Financly}
               skill_img={[
                 "https://cdn.worldvectorlogo.com/logos/react-2.svg",
                 "https://cdn.worldvectorlogo.com/logos/html-1.svg",
                 "https://cdn.worldvectorlogo.com/logos/css-3.svg",
                 "https://cdn.worldvectorlogo.com/logos/javascript-1.svg",
-                "https://cdn.worldvectorlogo.com/logos/framer-motion.svg"
+                 "https://cdn.worldvectorlogo.com/logos/firebase-1.svg",
               ]}
             />
 
             <ProjectCard
-              previewLink={"https://teamtrackers.netlify.app/"}
-              githubLink={"https://github.com/shivam1611/Team-Trackr-app"}
-              projectName={"Team Trackr App"}
+              previewLink={"https://personal-finance-tracker-main-eight.vercel.app/"}
+              githubLink={"https://github.com/Atharvakarale/personal-finance-tracker-main"}
+              projectName={"Personal Finance Tracker"}
               projectDetails={
                 "It is an Employee Data Management System in which we can store the data of the employee and acces the data of the employee"
               }
