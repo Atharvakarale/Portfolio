@@ -7,7 +7,7 @@ import travelHookIMG from "../../assets/travelhookIMG.png";
 import safecamIMG from "../../assets/safecamIMG.png";
 import careerCoach from "../../assets/careerCoach.png";
 import financly from "../../assets/financly.png";
-import travellannding from "../../assets/travellanding.png";
+import travel from "../../assets/travel.png";
 
 
 
@@ -73,7 +73,7 @@ function Projects() {
               projectDetails={
                 "Travel Explorer a visually engaging travel website landing page built with HTML, CSS, and JavaScript. Features interactive destination highlights, smooth animations, and a responsive design for an immersive user experience"
               }
-              demoImage={travellannding}
+              demoImage={travel}
               key={"Travel Website Landing Page"}
               skill_img={[
                 "https://cdn.worldvectorlogo.com/logos/html-1.svg",
