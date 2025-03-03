@@ -7,6 +7,7 @@ import travelHookIMG from "../../assets/travelhookIMG.png";
 import safecamIMG from "../../assets/safecamIMG.png";
 import careerCoach from "../../assets/careerCoach.png";
 import financly from "../../assets/financly.png";
+import travellanding from "../../assets/travellanding.png";
 
 
 
@@ -66,16 +67,15 @@ function Projects() {
             />
 
             <ProjectCard
-              previewLink={"https://personal-finance-tracker-main-eight.vercel.app/"}
-              githubLink={"https://github.com/Atharvakarale/personal-finance-tracker-main"}
+              previewLink={"https://github.com/Atharvakarale/Travel_landing_Page"}
+              githubLink={"https://travellandingpage262004.netlify.app/"}
               projectName={"Personal Finance Tracker"}
               projectDetails={
-                "It is an Employee Data Management System in which we can store the data of the employee and acces the data of the employee"
+                "Travel Explorer a visually engaging travel website landing page built with HTML, CSS, and JavaScript. Features interactive destination highlights, smooth animations, and a responsive design for an immersive user experience"
               }
-              demoImage={teamtrackrIMG}
-              key={"Team Trackr App"}
+              demoImage={travellanding}
+              key={"Travel Website Landing Page"}
               skill_img={[
-                "https://cdn.worldvectorlogo.com/logos/react-2.svg",
                 "https://cdn.worldvectorlogo.com/logos/html-1.svg",
                 "https://cdn.worldvectorlogo.com/logos/css-3.svg",
                 "https://cdn.worldvectorlogo.com/logos/javascript-1.svg",
