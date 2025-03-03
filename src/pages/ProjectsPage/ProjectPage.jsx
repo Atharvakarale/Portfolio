@@ -1,13 +1,13 @@
 import Navbar from "../../Components/Navbar/Navbar";
 import styles from "./ProjectPage.module.css";
 import ProjectCard from "../../Components/ProjectCard/projectCard";
-import teamtrackrIMG from "../../assets/teamtrackrIMG.png";
 import marketingIMG from "../../assets/marketingIMG.png";
-import travelHookIMG from "../../assets/travelhookIMG.png";
+
 import safecamIMG from "../../assets/safecamIMG.png";
 import careerCoach from "../../assets/careerCoach.png";
 import financly from "../../assets/financly.png";
 import travel from "../../assets/travel.png";
+import market from "../../assets/market.jpg";
 
 
 
@@ -99,18 +99,21 @@ function Projects() {
               ]}
             />
             <ProjectCard
-              previewLink={"https://travelhook.netlify.app/"}
-              githubLink={"https://github.com/shivam1611/travel-hook"}
-              projectName={"Travel Hook Webpage"}
+              previewLink={""}
+              githubLink={"https://github.com/Atharvakarale/Agri_Community"}
+              projectName={"Krishi Mitra"}
               projectDetails={
-                "It is a responsive and Mobile friendly static webpage created using pure HTML, CS and jQuery."
+                "Krishimitra for Farmers a platform for farm equipment rental, AI crop prediction, and worker hiring, with an e-commerce marketplace and chatbot support."
               }
-              demoImage={travelHookIMG}
+              demoImage={market}
               key={"Travel Hook Webpage"}
               skill_img={[
+                "https://cdn.worldvectorlogo.com/logos/react-2.svg",
                 "https://cdn.worldvectorlogo.com/logos/html-1.svg",
                 "https://cdn.worldvectorlogo.com/logos/css-3.svg",
                 "https://cdn.worldvectorlogo.com/logos/javascript-1.svg",
+                "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg",
+                "https://cdn.worldvectorlogo.com/logos/twilio.svg",
               ]}
             />
             <ProjectCard
