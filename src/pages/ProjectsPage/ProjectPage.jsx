@@ -8,6 +8,7 @@ import careerCoach from "../../assets/careerCoach.png";
 import financly from "../../assets/financly.png";
 import travel from "../../assets/travel.png";
 import market from "../../assets/market.jpg";
+import tour from "../../assets/tour.png";
 
 
 
@@ -67,8 +68,8 @@ function Projects() {
             />
 
             <ProjectCard
-              previewLink={"https://github.com/Atharvakarale/Travel_landing_Page"}
-              githubLink={"https://travellandingpage262004.netlify.app/"}
+              previewLink={"https://travellandingpage262004.netlify.app/"}
+              githubLink={"https://github.com/Atharvakarale/Travel_landing_Page"}
               projectName={"Travel Website Landing Page"}
               projectDetails={
                 "Travel-X a visually engaging travel website landing page built with HTML, CSS, and JavaScript. Features interactive destination highlights, smooth animations, and a responsive design for an immersive user experience"
@@ -81,23 +82,7 @@ function Projects() {
                 "https://cdn.worldvectorlogo.com/logos/javascript-1.svg",
               ]}
             />
-            <ProjectCard
-              previewLink={"https://glistening-shortbread-4a11c7.netlify.app/"}
-              githubLink={
-                "https://github.com/shivam1611/static-marketing-agency-website-"
-              }
-              projectName={"Marketing Solutions Webpage"}
-              projectDetails={
-                "It is a responsive and Mobile friendly static webpage created using pure HTML, CS and jQuery."
-              }
-              demoImage={marketingIMG}
-              key={"Marketing Solutions Webpage"}
-              skill_img={[
-                "https://cdn.worldvectorlogo.com/logos/html-1.svg",
-                "https://cdn.worldvectorlogo.com/logos/css-3.svg",
-                "https://cdn.worldvectorlogo.com/logos/javascript-1.svg",
-              ]}
-            />
+            
             <ProjectCard
               previewLink={""}
               githubLink={"https://github.com/Atharvakarale/Agri_Community"}
@@ -106,7 +91,7 @@ function Projects() {
                 "Krishimitra for Farmers a platform for farm equipment rental, AI crop prediction, and worker hiring, with an e-commerce marketplace and chatbot support."
               }
               demoImage={market}
-              key={"Travel Hook Webpage"}
+              key={"Krishi Mitra"}
               skill_img={[
                 "https://cdn.worldvectorlogo.com/logos/react-2.svg",
                 "https://cdn.worldvectorlogo.com/logos/html-1.svg",
@@ -116,23 +101,27 @@ function Projects() {
                 "https://cdn.worldvectorlogo.com/logos/twilio.svg",
               ]}
             />
-            <ProjectCard
-              previewLink={"https://kaleidoscopic-nougat-c405ab.netlify.app/"}
+
+              <ProjectCard
+              previewLink={""}
               githubLink={
-                "https://github.com/shivam1611/safe-cams-static-website"
+                "https://github.com/Atharvakarale/Tour_and_Travel_Management"
               }
-              projectName={"SafeCam Webpage"}
+              projectName={"Tour and Travel Management"}
               projectDetails={
                 "It is a responsive and Mobile friendly static webpage created using pure HTML, CS and jQuery."
               }
-              demoImage={safecamIMG}
-              key={"SafeCam Webpage"}
+              demoImage={tour}
+              key={"Marketing Solutions Webpage"}
               skill_img={[
+                "https://www.svgrepo.com/show/452088/php.svg",
                 "https://cdn.worldvectorlogo.com/logos/html-1.svg",
                 "https://cdn.worldvectorlogo.com/logos/css-3.svg",
                 "https://cdn.worldvectorlogo.com/logos/javascript-1.svg",
+                "https://cdn.worldvectorlogo.com/logos/phpmailer-1.svg",
               ]}
             />
+            
           </motion.div>
         </div>
       </MainContainer>
