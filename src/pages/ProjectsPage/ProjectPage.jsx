@@ -6,7 +6,7 @@ import marketingIMG from "../../assets/marketingIMG.png";
 import travelHookIMG from "../../assets/travelhookIMG.png";
 import safecamIMG from "../../assets/safecamIMG.png";
 import careerCoach from "../../assets/careerCoach.png";
-import Financly from "../../assets/Financly.png";
+import financly from "../../assets/financly.png";
 
 
 
@@ -55,7 +55,7 @@ function Projects() {
               projectDetails={
                 "Financly a personal finance tracker for managing expenses and earnings. Features real-time tracking, downloadable reports, and secure data storage. Built with React, Node.js, and Firebase for a seamless and efficient user experience.."
               }
-              demoImage={Financly}
+              demoImage={financly}
               skill_img={[
                 "https://cdn.worldvectorlogo.com/logos/react-2.svg",
                 "https://cdn.worldvectorlogo.com/logos/html-1.svg",
