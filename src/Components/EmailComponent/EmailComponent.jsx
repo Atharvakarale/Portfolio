@@ -21,7 +21,7 @@ function EmailComponent() {
     
 
     // These are the service ID , template ID and public key 
-    const service_ID  = "service_zil8mkc"
+    const service_ID  = "service_mraugps"
     const template_ID = "template_dgiaf2e"
     const public_key  = "50DgePuMzV2i0UJr1"
 

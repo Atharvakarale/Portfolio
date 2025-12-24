@@ -69,6 +69,18 @@ function AboutPage() {
  
                   }
                 />
+                </div>
+                <div className={`${style.action_container} ${style.left_container}`}>
+                  <ActionBox
+                  isleft={true}
+                  timeline={"NOV 2025 - Present"}
+                  timeline_title={"Full Stack Development Intern"}
+                  location={"Algoanalytics ,Pune"}
+                  details={
+                    " Working on Aksha, a full-stack analytics platform at AlgoAnalytics to process and visualize business data.Contributing to feature development, API integration, using modern web technologies."
+ 
+                  }
+                />
               </div>
              
             </div>

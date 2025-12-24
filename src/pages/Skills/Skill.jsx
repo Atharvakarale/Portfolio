@@ -20,10 +20,14 @@ function Skill() {
           transition={{ delay: ".5", duration: ".3", stiffness: "100" }}
           className={styles.skill_container}
         >
+          <SkillCard skill_name={"JAVA"} level={4} key={"HTML"} />
+          <SkillCard skill_name={"C++"} level={4} key={"HTML"} />
+          <SkillCard skill_name={"React.js"} level={3} key={"React.js"} />
+          <SkillCard skill_name={"SPRING BOOT"} level={3} key={"React.js"} />
           <SkillCard skill_name={"HTML"} level={5} key={"HTML"} />
           <SkillCard skill_name={"CSS "} level={5} key={"CSS"} />
           <SkillCard skill_name={"JavaScript"} level={4} key={"JavaScript"} />
-          <SkillCard skill_name={"React.js"} level={3} key={"React.js"} />
+          
           <SkillCard skill_name={"Node.js"} level={3} key={"Redux"} />
           <SkillCard skill_name={"Next.js"} level={3} key={"Redux"} />
           <SkillCard
